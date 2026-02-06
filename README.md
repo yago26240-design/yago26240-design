@@ -1,5 +1,6 @@
 <h1 align="center">oie meu nome yago</h1>
-<h3 align="center">eu estou estudando de desenvolvimento de sistema, e curso o ensino médio 2 anos</h3>
+<h3 align="center">eu estou estudando de desenvolvimento de sistema, e curso o ensino médio 3 ano</h3>
+<h3 align="center">eu tenho 18 anos, e estou cu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ya&label=Profile%20views&color=0e75b6&style=flat" alt="ya" /> </p>
 
