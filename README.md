@@ -30,7 +30,6 @@ Tenho experiência com projetos web e estou sempre buscando evoluir, aprendendo 
 
 ### 🔹 Intermediário:
 - Java ☕
-- JavaScript 💻
 - HTML5 e CSS3 🎨
 - MySQL 🗄️
 - Git & GitHub 🔧
@@ -38,6 +37,8 @@ Tenho experiência com projetos web e estou sempre buscando evoluir, aprendendo 
 ### 🔹 Básico:
 - Spring Boot 🌱
 - React ⚛️
+- API 
+- JavaScript 💻
 
 ---
 
