@@ -48,7 +48,7 @@ Atualmente focado em evoluir em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,azure" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,azure,js,java" />
 
 </div>
 
