@@ -1,46 +1,76 @@
-<h1 align="center">👋 Olá, eu sou o Yago</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
+<h1 align="center">Olá! Seja bem-vindo ao meu perfil 👋</h1>
 
 <p align="center">
-🎓 3º ano do Ensino Médio <br>
-💻 Estudando programação e desenvolvimento de sistemas <br>
-🚀 Focado em aprender Backend e criação de sistemas web
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yago26240-design&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="views"/>
+Desenvolvedor em formação | Apaixonado por tecnologia 🚀
 </p>
 
 ---
 
-<h3 align="left">📫 Contato</h3>
+## 👨‍💻 Sobre mim
 
-<p align="left">
-📞 tel: (11) 96203-7436
-📧 Email: yago26240@gmail.com
+Meu nome é **Yago**, sou estudante de **Desenvolvimento de Sistemas** e estou focado em me tornar um desenvolvedor profissional.
+
+Tenho experiência com projetos web e estou sempre buscando evoluir, aprendendo novas tecnologias e criando projetos práticos.
+
+💡 *Meu objetivo é viver de programação e construir projetos incríveis.*
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 Nível de Conhecimento
+
+### 🔹 Intermediário:
+- Java ☕
+- JavaScript 💻
+- HTML5 e CSS3 🎨
+- MySQL 🗄️
+- Git & GitHub 🔧
+
+### 🔹 Básico:
+- Spring Boot 🌱
+- React ⚛️
+
+---
+
+## 🎯 O que estou aprendendo?
+
+Atualmente focado em evoluir em:
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,azure" />
+
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Linguagens e Ferramentas</h3>
+## 📈 Estatísticas
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<h3 align="left">📊 Estatísticas do GitHub</h3>
+## 🧠 Frase
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yago26240-design&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago26240-design&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yago26240-design&theme=tokyonight"/>
-</p>
+> "Todo dia evoluindo 1% 🚀"
